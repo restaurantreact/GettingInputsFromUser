@@ -20,3 +20,6 @@ To check the installed dependencies Goto package.json file and check the depende
     "react-navigation": "^4.4.0",<br/>
     "react-navigation-stack": "^2.8.2"<br/>
   },<br/>
+
+<h1 align="center"> SCREEN SHOTS OF IT</h1>
+<img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766551.png" align="center">
