@@ -22,6 +22,6 @@ To check the installed dependencies Goto package.json file and check the depende
   },<br/>
 
 <h1 align="center"> SCREEN SHOTS OF IT</h1>
-<img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766551.png" align="center" height=250 width=100>
+<img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766551.png" align="center" height=1000 width=500>
 <img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766612.png" align="center">
 <img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766630.png" align="center">
