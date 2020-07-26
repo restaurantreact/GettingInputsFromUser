@@ -21,10 +21,10 @@ To check the installed dependencies Goto package.json file and check the depende
     "react-navigation-stack": "^2.8.2"<br/>
   },<br/>
 
-<h1 align="center"> SCREEN SHOTS OF IT</h1>
-<h3 align="center">Main screen</h3>
-<img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766551.png" align="center" height=1000 width=500>
-<h3 align="center">with hook</h3>
-<img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766612.png" align="center" height=1000 width=500>
-<h3 align="center">using states</h3>
+<h1 align="center"> SCREEN SHOTS OF IT</h1><br/>
+<h2 align="center">Main screen</h2>
+<img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766551.png" align="center" height=800 width=500><br/>
+<h2 align="center">with hook</h2>
+<img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766612.png" align="center" height=1000 width=500><br/>
+<h2 align="center">using states</h2>
 <img src="https://github.com/restaurantreact/GettingInputsFromUser/blob/master/user_inputs/Screenshot_1595766630.png" align="center" height=1000 width=500>
